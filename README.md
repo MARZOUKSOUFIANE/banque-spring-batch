@@ -1,4 +1,4 @@
-#                                                # SPRING BATCH #
+                                                   # SPRING BATCH #
 
 ### Cette application implémente les concepts qui permetent de faire la mise en œuvre de Data Batch Processing a traver Spring Batch. Elle aborde les éléments suivants :
 
