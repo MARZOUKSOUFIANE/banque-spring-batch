@@ -4,7 +4,7 @@
 
 #### - Utilisation des outils de Spring Batch (Job, Step, ItemReader, ItemProcessor, ItemWriter, Flow, JobLauncher, JobRepository)
 #### - Chunk Oriented Processing
-#### - création et configuration dùun Job avec des Steps
+#### - création et configuration d'un Job avec des Steps
 #### - implémentation d'un exemple de ItemReader avec un fichier CSV
 #### - implémentation d'un exemple de ItemProcessor
 #### - implémentation d'un ItemWriter sur une base de données H2
